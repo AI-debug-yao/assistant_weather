@@ -1,0 +1,5 @@
+requests>=2.31.0
+qwen-agent>=0.0.4
+python-dotenv>=1.0.0
+streamlit>=1.30.0
+
